@@ -15,7 +15,7 @@
 
 - Download the .zip archive with all sources
 - Go into /app and edit any files you need (index.html and core/main.coffee are your entry points)
-- Run `./compile.sh` (to compile) or `./run.sh` to build and execute, on the root directory
+- Run `./compile.sh` *(to compile)* or `./run.sh` *(to build and execute)*, on the root directory
 
 -----
 
