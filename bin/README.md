@@ -1,0 +1,1 @@
+Before trying to compile/run any project, you must first download Nw.js from [here](http://dl.nwjs.io/v0.12.2/nwjs-v0.12.2-osx-x64.zip), unzip the archive and copy all of its contents (mainly `nwjs.app`) in here (in the `/bin` folder).
