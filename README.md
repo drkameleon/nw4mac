@@ -17,14 +17,13 @@
 - Go into /app and edit any files you need (index.html and core/main.coffee are your entry points)
 - Run `./compile.sh` (to compile) or `./run.sh` to build and execute, on the root directory
 
+-----
 
-Issue Tracker
-------------------------------
+##### Issue Tracker
 
 Bug reports about all aspects of the tool are welcome. To let me know about anything, just use the Issues page here on GitHub.
 
-Copyright and License Information
----------------------------------
+##### Copyright and License Information
 
 Copyright (c) 2014 Ioannis Zafeiropoulos (aka Dr.Kameleon). 
 All rights reserved. 
