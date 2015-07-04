@@ -35,7 +35,7 @@ Bug reports about all aspects of the tool are welcome. To let me know about anyt
 
 ##### Copyright and License Information
 
-Copyright (c) 2014 Ioannis Zafeiropoulos (aka Dr.Kameleon). 
+Copyright (c) 2015 Ioannis Zafeiropoulos (aka Dr.Kameleon). 
 All rights reserved. 
 
 See the file "LICENSE" for information on the history of this software, terms &
