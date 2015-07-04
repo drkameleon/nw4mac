@@ -2,6 +2,8 @@
 
 #### Easily build and deploy NW.js-based OSX apps
 
+![Screenshot](http://s8.postimg.org/rurqjrn0l/Screen_Shot_2015_07_04_at_14_18_05.png)
+
 **The package includes:**
 
 - An easy compiler & runner
